@@ -1,5 +1,16 @@
 ## Hi there 👋
 
+> My name is Parul.
+
+| Rank |    Top Skills    |
+|-----:|------------------|
+|     1|       HTML       |
+|     2|       CSS        |
+|     3|    JAVASCRIPT    |
+|     4|      PYTHON      |
+|     5| MACHINE LEARNING |
+
+
 <!--
 **ParulYadav01/ParulYadav01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
