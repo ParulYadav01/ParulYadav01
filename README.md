@@ -2,6 +2,12 @@
 
 > My name is Parul.
 
+
+
+<details>
+  <summary>My top skills</summary>
+  
+
 | Rank |    Top Skills    |
 |-----:|------------------|
 |     1|       HTML       |
@@ -9,6 +15,8 @@
 |     3|    JAVASCRIPT    |
 |     4|      PYTHON      |
 |     5| MACHINE LEARNING |
+
+</details>
 
 
 <!--
