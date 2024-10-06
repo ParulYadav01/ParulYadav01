@@ -25,6 +25,7 @@
   <img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/3.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/4.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/5.png" width="100px" height="100px" />
+</div>
 
 <!--
 **ParulYadav01/ParulYadav01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
